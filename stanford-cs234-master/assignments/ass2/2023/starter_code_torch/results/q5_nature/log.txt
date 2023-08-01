@@ -1,0 +1,7 @@
+2023-01-25 23:07:18,234:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-01-25 23:07:19,022:DEBUG: Creating converter from 7 to 5
+2023-01-25 23:07:19,023:DEBUG: Creating converter from 5 to 7
+2023-01-25 23:07:19,023:DEBUG: Creating converter from 7 to 5
+2023-01-25 23:07:19,023:DEBUG: Creating converter from 5 to 7
+2023-01-25 23:07:23,155:INFO: NumExpr defaulting to 8 threads.
+2023-01-25 23:07:25,552:INFO: Evaluating...
